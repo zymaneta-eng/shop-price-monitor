@@ -196,7 +196,13 @@ ruff check src tests
 +------------------------------------------------------------------------------------+
 ```
 
-*(Visual UI screenshots and system workflow previews will be linked here from the `/screenshots` folder).*
+![дашборд: перший екран](screenshots/02_dash1_overview.png)
+
+![після дії (запуск / форма)](screenshots/02_dash1_action.png)
+
+![вкладка](screenshots/02_dash1_tab1_latest-positions-change-aler.png)
+
+Усі скріншоти (9): [screenshots/](screenshots/README.md)
 
 
 ---
